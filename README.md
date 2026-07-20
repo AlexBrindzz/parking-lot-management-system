@@ -1,4 +1,4 @@
-# IPCA-POO-TP1  
+# Parking Lot Management System
 Educational project aiming to recreate a parking management application. 
 
 ## Project Files  
